@@ -2,6 +2,10 @@
 
 ## Proposal
 
+  ### Main Question
+  
+   🏡 Are evictions in NYC related to demographic variables (i.e. Gender, Ethnicity, Public Assistance)? 
+
   ### Two sources of data
   
    1. **Evictions:** https://catalog.data.gov/dataset/evictions
