@@ -8,9 +8,9 @@
 
   ### Two sources of data
   
-   1. **Evictions:** https://catalog.data.gov/dataset/evictions
+   **1. Evictions:** https://catalog.data.gov/dataset/evictions
    
-   2. **Demographics:** https://catalog.data.gov/dataset/demographic-statistics-by-zip-code
+   **2. Demographics:** https://catalog.data.gov/dataset/demographic-statistics-by-zip-code
 
   ### Type of final production database to load the data into (relational or non-relational)
   
