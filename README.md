@@ -24,7 +24,7 @@
   
   ### Transform
   
-   * Explains what data clearing or transformation was required at a professional level  
+   * Explain what data clearing or transformation was required at a professional level  
   
   ### Load
 
