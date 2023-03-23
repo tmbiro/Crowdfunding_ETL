@@ -36,4 +36,4 @@
   
   ### Load
 
-   * Explain the final database, tables/collections, and why the topic was chosen at a professional level
+   * The final clean dataframe (30r x 20c) was loaded into the Evictions database, in the table EvictionDemographics. This topic was chosen because we wanted to investigate how eviction statistics in a demographically diverse city, such as New York, might differ between gentrified areas like Brooklyn and areas with higher minority demographics like the Bronx.
