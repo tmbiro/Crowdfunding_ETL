@@ -14,7 +14,7 @@
 
   ### Type of final production database to load the data into (relational or non-relational)
   
-   * 
+   * Relational – we used sqlite as our final production database to load the data into.
   
   ### Relevant and succinct description of findings (2–3 sentences)
   
