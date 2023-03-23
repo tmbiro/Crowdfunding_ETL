@@ -20,7 +20,7 @@
   
    * According to the graph of Total Evictions vs. PERCENT RECEIVES PUBLIC ASSISTANCE, you are less likely to be evicted if you recieve public assistance.
    
-   *
+   * Looking at the relationship between gender and evictions in NYC, it's clear that men are more likely to be evicted. 
    
    *
   
