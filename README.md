@@ -32,7 +32,7 @@
   
   ### Transform
   
-   * Explain what data clearing or transformation was required at a professional level  
+   * For the demographics data, we chose the columns with the zip code, number of participants, percentages of gender, ethnicity, and people on government assistance because those are the factors with want to explore. We then dropped duplicates and any zip code with less than 20 participants because those zip codes are not properly represented. With the cleaned demographics data, we created a column called PERCENT MINORITY by adding all the percentages of the non-white ethnicities. For the evictions data, we only extracted the zip code, eviction date, and the type of eviction (Residential or Commercial). Then, we filtered for only Residential evictions because we think that they will have a stronger relationship with the demographics data. After that, we created a data frame with the total amount of evictions by zip code. With the two new data frames, we performed an inner join on zip code to create the final data frame.
   
   ### Load
 
