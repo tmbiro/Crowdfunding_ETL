@@ -14,11 +14,11 @@
 
   ### Type of final production database to load the data into (relational or non-relational)
   
-   *
+   * 
   
   ### Relevant and succinct description of findings (2–3 sentences)
   
-   * You are less likely to be evicted if you recieve public assistance.
+   * According to the graph of Total Evictions vs. PERCENT RECEIVES PUBLIC ASSISTANCE, you are less likely to be evicted if you recieve public assistance.
    
    *
    
