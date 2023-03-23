@@ -28,7 +28,7 @@
 
   ### Extract
   
-   * The original data sources are csv files. They were zipcode-level, aggragated data. 
+   * The data comes from data.gov, and they are in CSV files. The demographics data has 236 rows and 46 columns where each row is a zip code and its demographics. The evictions data has 72,488 rows and 20 columns where each row is an eviction case. Both data sets have zip code data. In the demographics data, it is a primary key, but in the evictions data, it is a secondary key.
   
   ### Transform
   
