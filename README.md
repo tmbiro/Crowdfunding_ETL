@@ -22,7 +22,7 @@
    
    * Looking at the relationship between gender and evictions in NYC, it's clear that men are more likely to be evicted. 
    
-   * With reference to the graph, we see that in the Brox and Manhattan, there is a large number of minorities being evicted. 
+   * With reference to the map graph, we see that in both the Brox and in Manhattan, there is a large number of minorities being evicted. 
   
 ## Report
 
