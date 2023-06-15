@@ -1,4 +1,4 @@
-# Project 2: ETL Mini Project
+# ETL Mini Project
 
 ## Proposal
 
